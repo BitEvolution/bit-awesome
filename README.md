@@ -1,4 +1,13 @@
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [bit-awesome](#bit-awesome)
+    - [Parser - Compiler](#parser---compiler)
+
+<!-- markdown-toc end -->
+
 # bit-awesome #
+
 Contains the Links from the BitEvolution Discord Server
 
 ## Parser - Compiler ##
