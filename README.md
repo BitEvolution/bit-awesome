@@ -24,3 +24,7 @@ Contains the Links from the BitEvolution Discord Server
 ## Graphics ##
 
   * [pylustrator](https://pylustrator.readthedocs.io/en/latest/)
+
+## Awesomes ##
+    
+  * [web-dev resources](https://free-for.dev/#/)
