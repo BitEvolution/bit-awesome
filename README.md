@@ -13,7 +13,8 @@ Contains the Links from the BitEvolution Discord Server
 
 ## Browser
 
-    * [brow](https://www.brow.sh/) Browsh is a fully-modern text-based browser.
+   * [brow](https://www.brow.sh/) Browsh is a fully-modern text-based browser.
+    
 
 ## Parser - Compiler ##
 
