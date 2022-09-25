@@ -11,6 +11,10 @@
 
 Contains the Links from the BitEvolution Discord Server
 
+## Browser
+
+    * [brow](https://www.brow.sh/) Browsh is a fully-modern text-based browser.
+
 ## Parser - Compiler ##
 
   * [tree-sitter](https://tree-sitter.github.io/tree-sitter/)
