@@ -4,6 +4,7 @@
 - [bit-awesome](#bit-awesome)
     - [Parser - Compiler](#parser---compiler)
     - [Graphics](#graphics)
+    - [Haskell](#haskell)
 
 <!-- markdown-toc end -->
 
@@ -19,3 +20,8 @@ Contains the Links from the BitEvolution Discord Server
 ## Graphics ##
 
   * [pylustrator](https://pylustrator.readthedocs.io/en/latest/)
+
+## Haskell ##
+
+  * [Factorial Implementations](http://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
+  * [The Haskell Error Index][https://errors.haskell.org/]
