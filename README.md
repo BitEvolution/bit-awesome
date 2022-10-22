@@ -2,6 +2,8 @@
 **Table of Contents**
 
 - [bit-awesome](#bit-awesome)
+    - [Awesomes](#awesomes)
+    - [Browser](#browser)
     - [Parser - Compiler](#parser---compiler)
     - [Graphics](#graphics)
     - [Haskell](#haskell)
@@ -11,6 +13,14 @@
 # bit-awesome #
 
 Contains the Links from the BitEvolution Discord Server
+
+## Awesomes ##
+
+  * [web-dev resources](https://free-for.dev/#/)
+
+## Browser
+
+   * [brow](https://www.brow.sh/) Browsh is a fully-modern text-based browser.
 
 ## Parser - Compiler ##
 
