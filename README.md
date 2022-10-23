@@ -35,7 +35,7 @@ Contains the Links from the BitEvolution Discord Server
 ## Haskell ##
 
   * [Factorial Implementations](http://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
-  * [The Haskell Error Index][https://errors.haskell.org/]
+  * [The Haskell Error Index](https://errors.haskell.org/)
 
 ## Podcasts ##
 
