@@ -7,6 +7,7 @@
     - [Parser - Compiler](#parser---compiler)
     - [Graphics](#graphics)
     - [Haskell](#haskell)
+    - [Podcasts](#podcasts)
 
 <!-- markdown-toc end -->
 
@@ -35,3 +36,7 @@ Contains the Links from the BitEvolution Discord Server
 
   * [Factorial Implementations](http://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
   * [The Haskell Error Index][https://errors.haskell.org/]
+
+## Podcasts ##
+
+  * [Pharmakon](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hOTdjMWM0MC9wb2RjYXN0L3Jzcw)
