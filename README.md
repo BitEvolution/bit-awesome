@@ -40,3 +40,4 @@ Contains the Links from the BitEvolution Discord Server
 ## Podcasts ##
 
   * [Pharmakon](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hOTdjMWM0MC9wb2RjYXN0L3Jzcw)
+  * [The Haskell Interlude](https://haskell.foundation/podcast)
