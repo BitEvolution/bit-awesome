@@ -7,6 +7,7 @@
     - [Parser - Compiler](#parser---compiler)
     - [Graphics](#graphics)
     - [Haskell](#haskell)
+    - [Prolog](#prolog)
     - [Podcasts](#podcasts)
 
 <!-- markdown-toc end -->
@@ -36,6 +37,10 @@ Contains the Links from the BitEvolution Discord Server
 
   * [Factorial Implementations](http://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
   * [The Haskell Error Index](https://errors.haskell.org/)
+
+## Prolog ##
+
+  * [The Art of Prolog](https://mitpress.mit.edu/9780262691055/the-art-of-prolog/)
 
 ## Podcasts ##
 
