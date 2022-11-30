@@ -40,6 +40,7 @@ Contains the Links from the BitEvolution Discord Server
 
 ## Prolog ##
 
+  * [The Power of Prolog](https://www.metalevel.at/prolog)
   * [The Art of Prolog](https://mitpress.mit.edu/9780262691055/the-art-of-prolog/)
 
 ## Podcasts ##
